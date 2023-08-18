@@ -1,0 +1,1 @@
+export const item = {"back": true, "id": "4ef83c85-e319-4f3c-8099-769bcc40cc54", "restaurant_name": "Walk speak hotel. Method", "rating_stars": "https://the-coder.s3.ap-south-1.amazonaws.com/images_540/668.png"}
